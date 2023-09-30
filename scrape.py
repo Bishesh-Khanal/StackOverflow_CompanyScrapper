@@ -45,7 +45,7 @@ def scrape(companies):
         companies_dictionary['Specialities'].append(specialities_text)
         
         link = company.find('a')['href']
-        company_text = requests.get('https://stackoverflow.com' + link, headers = random.choice(userAgents)).text
+        company_text = requests.get('https://stackoverflow.com' + link, headers = {'User-Agent': random.choice(userAgents)}).text
         soup = BeautifulSoup(company_text, 'lxml')
         
         additional = soup.find('div', class_ = 'ba bc-black-100 ps-relative p16 bar-sm')
@@ -83,8 +83,8 @@ def scrape(companies):
         companies_dictionary['Status'].append(status)
         companies_dictionary['Followers on Stack Overflow'].append(followers)
 
-for page in range (1, 12):
-    html_text = requests.get('https://stackoverflow.com/jobs/companies?pg=' + str(page), headers = random.choice(userAgents)).text
+for page in range (10, 12):
+    html_text = requests.get('https://stackoverflow.com/jobs/companies?pg=' + str(page), headers = {'User-Agent': random.choice(userAgents)}).text
     soup = BeautifulSoup(html_text, 'lxml')
 
     companies = soup.find_all('div', class_ = 'flex--item fl1 text mb0')
