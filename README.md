@@ -1,7 +1,7 @@
 # StackOverflow_CompanyScrapper
 A basic web-scrapper that collects the data about the companies listed on stack overflow's website:
 # https://stackoverflow.com/jobs/companies
-The scraper goes through 11 pages to scrape all 101 companies' most relevant data.
+The scraper goes through 11 pages to scrape 102 companies' most relevant data.
 The data have been divided into the following categories:
 ## Name of the Company
 ## Location of the Company
