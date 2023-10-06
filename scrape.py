@@ -23,17 +23,6 @@ def scrapper(companies_dictionary, userAgents, page_start, page_end):
             companies_dictionary['Location'].append(location_type[0].text)
             companies_dictionary['Type'].append(location_type[1].text)
             
-            '''
-            specialities = company.find_all('a', class_ = 'flex--item s-tag no-tag-menu')
-            
-            specialities_text = ''
-            
-            for i in range(0, len(specialities)):
-                specialities_text = specialities_text + ', ' + specialities[i].text
-                
-            companies_dictionary['Specialities'].append(specialities_text)
-            '''
-            
             link = company.find('a')['href']
             companies_dictionary['Link'].append(link)
             company_text = requests.get('https://stackoverflow.com' + link, headers = {'User-Agent': random.choice(userAgents)})
@@ -88,11 +77,3 @@ def scrapper(companies_dictionary, userAgents, page_start, page_end):
 
     
     return pd.DataFrame(companies_dictionary)
-
-'''
-companies_dataframe['Specialities'] = companies_dataframe['Specialities'].apply(lambda x: x[2:])
-companies_dataframe['Size'] = companies_dataframe['Size'].apply(lambda x: x.replace('  ', ''))
-companies_dataframe['Founded'] = companies_dataframe['Founded'].apply(lambda x: x.replace('  ', ''))
-companies_dataframe['Status'] = companies_dataframe['Status'].apply(lambda x: x.replace('  ', ''))
-companies_dataframe['Followers on Stack Overflow'] = companies_dataframe['Followers on Stack Overflow'].apply(lambda x: x.replace('  ', ''))
-'''
