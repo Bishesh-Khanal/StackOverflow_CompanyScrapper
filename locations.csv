@@ -1,209 +1,209 @@
 ,0
-0,Warsaw
-1,Vilnius
-2,Kaunas
-3,Tokyo
-4,Berlin
-5,London
-6,Lake Mary
+0,Vilnius
+1,Kaunas
+2,Warsaw
+3,London
+4,Tokyo
+5,Berlin
+6,Meridian
 7,Praha 8
-8,Meridian
-9,Englewood
+8,Lake Mary
+9,Denver
 10,Littleton
-11,Denver
+11,Englewood
 12,Tel Aviv-Yafo
-13,Berlin
-14,Sofia
-15,Singapore
-16,China
-17,Czechia
-18,Sunnyvale
-19,Fairport
+13,Sofia
+14,Berlin
+15,China
+16,Czechia
+17,Singapore
+18,Fairport
+19,Sunnyvale
 20,Irvine
-21,Warsaw
+21,Kraków
 22,Łódź
-23,Kraków
+23,Warsaw
 24,Hannover
 25,Berlin
 26,Nürnberg
-27,Wrocław
+27,Bengaluru
 28,Gothenburg
-29,Bengaluru
+29,Wrocław
 30,Melbourne
 31,Surfers Paradise
 32,Sydney
-33,Paris
-34,Petah Tikva
-35,Bengaluru
+33,Bengaluru
+34,Paris
+35,Petah Tikva
 36,San Mateo
-37,Dallas
-38,Boston
-39,New York
-40,Letterkenny
-41,India
+37,New York
+38,Dallas
+39,Boston
+40,India
+41,Letterkenny
 42,Bogotá
-43,Germasogeia
+43,Chongwenmen Outer Residential District
 44,Xu Hui Qu
-45,Chongwenmen Outer Residential District
-46,Gurugram
-47,Brighton
-48,Bengaluru
+45,Germasogeia
+46,Bengaluru
+47,Gurugram
+48,Brighton
 49,Hamburg
-50,Singapore
-51,Petaling Jaya
-52,Bengaluru
+50,Bengaluru
+51,Singapore
+52,Petaling Jaya
 53,No office location
-54,Białystok
-55,București
-56,Lublin
-57,Honolulu
-58,Fort Meade
-59,Augusta
-60,Gurugram
-61,Kolkata
-62,Kothaguda
-63,Honolulu
-64,Pleasanton
-65,San Francisco
+54,București
+55,Lublin
+56,Białystok
+57,Fort Meade
+58,Augusta
+59,Honolulu
+60,Kolkata
+61,Kothaguda
+62,Gurugram
+63,Pleasanton
+64,San Francisco
+65,Honolulu
 66,London
 67,New York
-68,Dublin
+68,Draper
 69,Bengaluru
-70,Draper
-71,San Francisco
-72,New York
+70,Dublin
+71,New York
+72,San Francisco
 73,Bellevue
-74,Louisville
+74,Charlotte
 75,San Diego
-76,Charlotte
-77,Kyiv
-78,Vilnius
+76,Louisville
+77,Vilnius
+78,Kyiv
 79,Nicosia
 80,London
 81,Farnborough
-82,Chicago
-83,Riverwoods
-84,Berlin
-85,Stuttgart
-86,Quận 1
-87,Kroměříž
-88,Singapore
-89,Tân Bình
+82,Riverwoods
+83,Chicago
+84,Stuttgart
+85,Quận 1
+86,Berlin
+87,Singapore
+88,Tân Bình
+89,Kroměříž
 90,Veghel
-91,Nan Jing Shi
+91,Bengaluru
 92,Alexandria
-93,Bengaluru
+93,Nan Jing Shi
 94,Umeå
-95,Berlin
-96,Bangalore
+95,Bangalore
+96,Berlin
 97,Berlin
-98,Berlin
-99,Bucharest
-100,Sofia
-101,Quatre Bornes
-102,Espoo
+98,Bucharest
+99,Sofia
+100,Berlin
+101,Espoo
+102,Quatre Bornes
 103,Katowice
 104,Leipzig
-105,Sint-Gillis
-106,Brussel
-107,Charleroi
-108,Plainsboro Township
-109,Denmark
-110,Bengaluru
-111,Berlin
+105,Charleroi
+106,Sint-Gillis
+107,Brussel
+108,Denmark
+109,Bengaluru
+110,Plainsboro Township
+111,Tunis
 112,München
-113,Tunis
+113,Berlin
 114,Utrecht
 115,Dumaguete
 116,Bromma
 117,Praha 13
 118,Budapest
-119,Miskolc
-120,Bengaluru
-121,Hanover
+119,Bengaluru
+120,Miskolc
+121,New York
 122,Bridgewater
-123,New York
-124,Singapore
-125,Hyderabad
-126,Bengaluru
+123,Hanover
+124,Bengaluru
+125,Singapore
+126,Hyderabad
 127,Sunnyvale
-128,Berlin
-129,Denver
-130,Gurugram
+128,Denver
+129,Berlin
+130,Barcelona
 131,Paris
-132,Barcelona
-133,Luxembourg
-134,Netanya
-135,Kleinmachnow
+132,Gurugram
+133,Netanya
+134,Kleinmachnow
+135,Luxembourg
 136,No office location
-137,Stratford
-138,Halifax
+137,Halifax
+138,Stratford
 139,Moncton
-140,Berlin
-141,Nürnberg
-142,Hamburg
+140,Hamburg
+141,Berlin
+142,Nürnberg
 143,London
-144,Hong Kong Island
-145,New York
+144,New York
+145,Hong Kong Island
 146,München
 147,Montreal
 148,Chicago
-149,California
-150,Orlando
+149,Orlando
+150,California
 151,Bend
 152,Mountain View
 153,Hinxton
 154,München
 155,Cambridge
-156,Seattle
-157,London
-158,New York
+156,London
+157,New York
+158,Seattle
 159,Chao Yang Qu
 160,Hoàn Kiếm
 161,New Delhi
-162,Glasgow
-163,Pontprennau
-164,Doncaster
-165,Cluj-Napoca
+162,Pontprennau
+163,Doncaster
+164,Glasgow
+165,Wien
 166,Wrocław
-167,Wien
+167,Cluj-Napoca
 168,Colombo
 169,Armthorpe
 170,Leicester
 171,Kapolei
-172,Anchorage
-173,San Francisco
+172,San Francisco
+173,Anchorage
 174,Iași
-175,Bangkok
-176,Dubai
-177,Geneva
-178,Bengaluru
+175,Dubai
+176,Bangkok
+177,Bengaluru
+178,Geneva
 179,Chennai
-180,Palo Alto
-181,Detroit
-182,Dearborn
-183,Mumbai
-184,Hyderabad
-185,Bengaluru
+180,Detroit
+181,Dearborn
+182,Palo Alto
+183,Bengaluru
+184,Mumbai
+185,Hyderabad
 186,No office location
-187,Paris
-188,Amsterdam
-189,Düsseldorf
+187,Düsseldorf
+188,Paris
+189,Amsterdam
 190,Amsterdam
-191,Port Washington
+191,Robbinsville Township
 192,North Las Vegas
-193,Robbinsville Township
-194,Pudong Xinqu
-195,Shenzhen
-196,East District
-197,Warsaw
-198,Łódź
+193,Port Washington
+194,Shenzhen
+195,East District
+196,Pudong Xinqu
+197,Łódź
+198,Warsaw
 199,Göteborg
-200,Graz
-201,Zagreb
-202,Toronto
-203,Vancouver
-204,Calgary
+200,Zagreb
+201,Graz
+202,Calgary
+203,Toronto
+204,Vancouver
 205,London
 206,München
 207,Vancouver
@@ -212,39 +212,39 @@
 210,London
 211,Leeds
 212,Staines-upon-Thames
-213,Berlin
-214,Hamburg
+213,Hamburg
+214,Berlin
 215,Staré Mesto
-216,Bratislava
-217,Wien
+216,Wien
+217,Bratislava
 218,Estonia
 219,Lithuania
 220,Latvia
 221,Utrecht
-222,Beograd
-223,Berlin
+222,Berlin
+223,Beograd
 224,Zug
 225,Berlin
 226,Bern
 227,Zürich
-228,Solothurn
-229,Oberburg
-230,Barcelona
-231,Singapore
-232,London
+228,Barcelona
+229,Solothurn
+230,Oberburg
+231,London
+232,Singapore
 233,Seattle
 234,Warsaw
 235,Pune
 236,Chennai
 237,No office location
-238,Wielkopolskie
+238,Hamburg
 239,Ciudad de México
-240,Hamburg
-241,Münster
-242,Hagen
-243,Paderborn
+240,Wielkopolskie
+241,Paderborn
+242,Münster
+243,Hagen
 244,Berlin
 245,Frankfurt am Main
-246,Qatar
-247,India
+246,India
+247,Qatar
 248,Hong Kong
